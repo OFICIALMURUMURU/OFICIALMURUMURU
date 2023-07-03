@@ -13,29 +13,17 @@
 
 <div align="center"> Olá! Bem-vindo ao repositório da MURUMURU! <br>
 Nasceu da experiência do Gabriel (nosso integrante) que trabalhou com o pai dele como ajudante de pedreiro durante um ano A nossa ideia é diminuir o tempo que o profissional gasta fazendo cálculo de matériais, e também dar mais visibilidade ao seu trabalho com o nosso portfólio. A plataforma tem três usuários, onde em nossa plataforma era possível conecta-los, eles são: os profissionais, ajudantes e os clientes contratantes.
-<br>
-<br>
-<br>
+
 <div align="center">  
   
 ![MURUMURUpng](https://github.com/OFICIALMURUMURU/MURUMURU/assets/135625151/75ff2f3a-a4bb-42fb-9e1a-82c4214f3a79)
 </div>
 
-<br>
-<br>
-<br>
 
 <div align="center" </div>
 
  
-  ### Linguagens utilizadas para a criação da MURUMURU:
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40" />
-          
+ 
  
 
 
